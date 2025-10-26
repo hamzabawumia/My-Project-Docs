@@ -17,3 +17,12 @@ So a service can have many prices but a price is for only one service.
     will have a foreignkey relating it to the Services_List model
     At the same time, the created Sub_Contractor_Service is linked to the particular subcontractor.
 
+Now, when a Client selects a service it shows up as an "opportunity" for the Sub-contractors
+They can see all the requests and accept any of them based on their choice.
+
+The Client gets notified and s/he can then see all the subcontractors who have accepted to offer the service
+and their prices for the service. Now the client selects one of the offers and confirms 
+
+once the client confirms to take the offer - the opportunity is no longer available to other subcontractors.
+
+
