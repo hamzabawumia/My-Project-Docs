@@ -1,0 +1,8 @@
+There is a Report that shows all client requests and can be filtered by date and location
+
+Once a professional clicks to see the details of a request, There will be a button "Accept this Request"
+if the professional accepts then a new record is created in "Request Acceptances" Table.
+
+Also the client can access a Report than shows all his or her requests and any "request acceptances" associated with 
+that request. Once the client confirms any of the "request acceptances" the deal is done.
+and the request is no longer available for more acceptances.
