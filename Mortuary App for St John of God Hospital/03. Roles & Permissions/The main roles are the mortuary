@@ -1,4 +1,6 @@
 1. cashier_role
 2. accountant_role
+3. mortuary_accountant - this is hard coded and is mainly for viewing REPORTS
+
 
 They are all desk users but with different roles
